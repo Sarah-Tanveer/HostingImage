@@ -1,0 +1,30 @@
+push graphic-context
+compliance "SVG"
+fill "black"
+fill-opacity 1
+stroke "none"
+stroke-width 1
+stroke-opacity 1
+fill-rule nonzero
+encoding "UTF-8"
+viewbox 0 0 10 6
+affine 1 0 0 1 0 0
+#     Created with Sketch.
+push defs
+pop defs
+push graphic-context "Page-1"
+stroke "none"
+stroke-width 1
+fill "none"
+fill-rule "evenodd"
+push graphic-context "1680---Charcoal"
+affine 1 0 0 1 -652 -36
+fill "#2F3337"
+push graphic-context "Carrot"
+affine 0.707107 0.707107 -0.707107 0.707107 218.508 -453.626
+class "polygon"
+polygon 660.07969 33.4497475 660.328427 40.4497475 653.328427 40.2010101
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context

@@ -1,0 +1,37 @@
+push graphic-context
+compliance "SVG"
+fill "black"
+fill-opacity 1
+stroke "none"
+stroke-width 1
+stroke-opacity 1
+fill-rule nonzero
+encoding "UTF-8"
+viewbox 0 0 24 14
+affine 1 0 0 1 0 0
+#     Created with Sketch.
+push defs
+pop defs
+push graphic-context "Page-1"
+stroke "none"
+stroke-width 1
+fill "none"
+fill-rule "evenodd"
+push graphic-context "1023---Logotype"
+affine 1 0 0 1 -181 -29
+fill "#2F3337"
+push graphic-context "Group-3"
+affine 1 0 0 1 181 29
+push graphic-context "Rectangle-7"
+roundRectangle 0,0 24,2 1,1
+pop graphic-context
+push graphic-context "Rectangle-7-Copy"
+roundRectangle 0,6 24,8 1,1
+pop graphic-context
+push graphic-context "Rectangle-7-Copy-2"
+roundRectangle 0,12 24,14 1,1
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
+pop graphic-context
