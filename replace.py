@@ -1,6 +1,6 @@
 import re
 
-with open("reduced.html", "r") as f:
+with open("opera_weebly.com/info/reduced.html", "r") as f:
   html_content = f.read()
 
 img_src_regex = r"<img(.*?)src=\"(.*?)\""
@@ -12,7 +12,7 @@ for img_src in img_srcs:
       url = f"http://github.com/Sarah-Tanveer/HostingImage/raw/main/opera_weebly.com/{name}"
       print(url)
       html_content = html_content.replace(img_src, url)
-with open("reduced.html", "w+") as f:
+with open("reduced_new.html", "w+") as f:
   f.write(html_content)
 
   
